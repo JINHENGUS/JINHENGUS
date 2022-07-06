@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-gfhgf
+gfhgf![QQ截图20220704203320](https://user-images.githubusercontent.com/108779027/177463329-733ba567-ab78-45f6-ad46-a6aa94f8b22f.png)
+
 <!---
 JINHENGUS/JINHENGUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
